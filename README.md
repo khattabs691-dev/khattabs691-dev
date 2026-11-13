@@ -1,8 +1,8 @@
-<img src="assets/banner.svg" width="100%" alt="Saif Khattab: AI Student building practical NLP and Deep Learning. Al-Zaytoonah University of Jordan"/>
+<img src="assets/banner.svg" width="100%" alt="Saif Khattab: AI Developer in the Making. Python, Machine Learning, Intelligent Systems. Al-Zaytoonah University of Jordan"/>
 
 <img src="assets/about.svg" width="100%" alt="About me: AI student focused on NLP, Deep Learning and Machine Learning with Python"/>
 
-<img src="assets/highlights.svg" width="100%" alt="100K reviews processed, 2.6M model parameters, 83.29% test accuracy, 1 live AI app deployed"/>
+<img src="assets/highlights.svg" width="100%" alt="Final-year AI student. Focus: NLP and Deep Learning. Learning: Transformers and LLMs. Open to collaboration"/>
 
 <img src="assets/stack.svg" width="100%" alt="Tech stack: Python, TensorFlow, Keras, scikit-learn, NLTK, Transformers, pandas, NumPy, Matplotlib, Git, GitHub, Jupyter, Colab, Gradio, Hugging Face"/>
 
