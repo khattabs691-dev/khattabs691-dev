@@ -20,7 +20,7 @@
 <p>
   <a href="mailto:khattabs691@gmail.com"><img src="assets/btn-email.svg?v=5" width="32%" alt="Email"/></a>
   <a href="https://huggingface.co/saif2556"><img src="assets/btn-hf.svg?v=5" width="32%" alt="Hugging Face"/></a>
-  <!-- <a href="https://www.linkedin.com/in/YOUR-PROFILE"><img src="assets/btn-linkedin.svg?v=5" width="32%" alt="LinkedIn"/></a> -->
+  <a href="https://www.linkedin.com/in/saif-khattab-ai"><img src="assets/btn-linkedin.svg?v=5" width="32%" alt="LinkedIn"/></a>
 </p>
 
 <img src="assets/footer.svg?v=5" width="100%" alt="Build models · Measure honestly · Ship what works"/>
