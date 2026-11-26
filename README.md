@@ -9,7 +9,7 @@
 <img src="assets/h-projects.svg?v=7" width="100%" alt="Featured projects"/>
 
 <p>
-  <a href="https://github.com/khattabs691-dev/MetaScan"><img src="assets/p-metascan.svg?v=7" width="49%" alt="MetaScan: metastatic cancer detection (Deep Learning)"/></a>
+  <a href="https://github.com/khattabs691-dev/MetaScan"><img src="assets/p-metascan.svg?v=8" width="49%" alt="MetaScan: metastatic cancer detection (Deep Learning)"/></a>
   <a href="https://github.com/khattabs691-dev/NLP-Sentiment-Analyzer"><img src="assets/p-sentiment.svg?v=7" width="49%" alt="NLP Sentiment Analyzer"/></a>
 </p>
 <p>
