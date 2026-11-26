@@ -9,7 +9,10 @@
 <img src="assets/h-projects.svg?v=7" width="100%" alt="Featured projects"/>
 
 <p>
+  <a href="https://github.com/khattabs691-dev/MetaScan"><img src="assets/p-metascan.svg?v=7" width="49%" alt="MetaScan: metastatic cancer detection (Deep Learning)"/></a>
   <a href="https://github.com/khattabs691-dev/NLP-Sentiment-Analyzer"><img src="assets/p-sentiment.svg?v=7" width="49%" alt="NLP Sentiment Analyzer"/></a>
+</p>
+<p>
   <a href="https://github.com/HusseinZahran-1/mediflow-ai"><img src="assets/p-mediflow.svg?v=7" width="49%" alt="MediFlow AI (contributor)"/></a>
 </p>
 
